@@ -1,0 +1,2 @@
+net start - naredba za sve servise
+net stop - za zaustavljanje
