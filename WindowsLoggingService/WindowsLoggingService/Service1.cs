@@ -25,7 +25,7 @@ namespace WindowsLoggingService
         protected override void OnStart(string[] args)
         {
             sDateTime = DateTime.Now.ToString("dd/MM/yyyy hh: mm:ss tt");
-            sText = "Servis je pokrenut" + sDateTime;
+            sText = "Servis je pokrenut  " + sDateTime;
             ScheduleService();
             WriteToFile(sText);
             
@@ -34,7 +34,7 @@ namespace WindowsLoggingService
         protected override void OnStop()
         {
             sDateTime = DateTime.Now.ToString("dd/MM/yyyy hh:mm:ss");
-            sText = "Servis je zaustavljen" + sDateTime;
+            sText = "Servis je zaustavljen  " + sDateTime;
             WriteToFile(sText);
         }
         private static void WriteToFile(string text)

@@ -1,0 +1,7 @@
+Simple Service scheduled to run after: 0 day(s) 0 hour(s) 1 minute(s) 0 seconds(s) 01.11.2017 06:18:27 
+Servis je pokrenut01.11.2017 06: 18:26 
+Simple Service Log: 01.11.2017 06:19:27 
+Simple Service scheduled to run after: 0 day(s) 0 hour(s) 1 minute(s) 0 seconds(s) 01.11.2017 06:19:27 
+Simple Service Log: 01.11.2017 06:20:27 
+Simple Service scheduled to run after: 0 day(s) 0 hour(s) 1 minute(s) 0 seconds(s) 01.11.2017 06:20:27 
+Servis je zaustavljen01.11.2017 06:20:49

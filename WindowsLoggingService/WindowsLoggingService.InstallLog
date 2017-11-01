@@ -1,0 +1,23 @@
+﻿Installing assembly 'C:\Users\Luka\Desktop\Luka Kovačić\ServiceLog\WindowsLoggingService\WindowsLoggingService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Luka\Desktop\Luka Kovačić\ServiceLog\WindowsLoggingService\WindowsLoggingService.InstallLog
+   assemblypath = C:\Users\Luka\Desktop\Luka Kovačić\ServiceLog\WindowsLoggingService\WindowsLoggingService.exe
+   logtoconsole = 
+Installing service ServiceLogLux...
+Service ServiceLogLux has been successfully installed.
+Creating EventLog source ServiceLogLux in log Application...
+Committing assembly 'C:\Users\Luka\Desktop\Luka Kovačić\ServiceLog\WindowsLoggingService\WindowsLoggingService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Luka\Desktop\Luka Kovačić\ServiceLog\WindowsLoggingService\WindowsLoggingService.InstallLog
+   assemblypath = C:\Users\Luka\Desktop\Luka Kovačić\ServiceLog\WindowsLoggingService\WindowsLoggingService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Luka\Desktop\Luka Kovačić\ServiceLog\WindowsLoggingService\WindowsLoggingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Luka\Desktop\Luka Kovačić\ServiceLog\WindowsLoggingService\WindowsLoggingService.InstallLog
+   assemblypath = C:\Users\Luka\Desktop\Luka Kovačić\ServiceLog\WindowsLoggingService\WindowsLoggingService.exe
+Removing EventLog source ServiceLogLux.
+Service ServiceLogLux is being removed from the system...
+Service ServiceLogLux was successfully removed from the system.
